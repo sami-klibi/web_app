@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Paracétamol",
+      "qte": "100 mg",
+      "stock": 50,
+      "code": "ABC123",
+      "position": "A1"
+    },
+    {
+      "name": "Ibuprofène",
+      "qte": "200 mg",
+      "stock": 30,
+      "code": "DEF456",
+      "position": "B3"
+    },
+    {
+      "name": "Aspirine",
+      "qte": "75 mg",
+      "stock": 20,
+      "code": "GHI789",
+      "position": "C2"
+    }
+  ]
+  
